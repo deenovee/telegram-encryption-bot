@@ -15,7 +15,8 @@ Dependencies: Install the required Python packages using:
 
     ```bash
     pip install python-telegram-bot pycryptodome requests
-    Run the Bot: Execute the bot.py file to start the bot. The bot will listen for incoming files and perform encryption or decryption based on the provided instructions.
+    
+Run the Bot: Execute the main.py file to start the bot. The bot will listen for incoming files and perform encryption or decryption based on the provided instructions.
 
 Usage
 
